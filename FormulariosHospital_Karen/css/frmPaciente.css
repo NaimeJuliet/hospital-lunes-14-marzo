@@ -1,0 +1,8 @@
+﻿.contenedor {
+    width: 500px;
+    height: 500px;
+}
+
+body {
+    background-image: url(../img/pacientes.png);
+}

@@ -1,0 +1,9 @@
+﻿.contenedor {
+    width: 500px;
+    height: 400px;
+}
+
+body {
+    background-image: url(../img/doctor.jpg);
+    background-image: repeating-linear-gradient()
+}
